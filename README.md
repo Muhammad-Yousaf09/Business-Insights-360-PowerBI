@@ -60,7 +60,10 @@ This dashboard replaces that ad-hoc process with a single source of truth.
 ## Dashboard Walkthrough
 
 ### 🏠 Home Page
-![Home Page](screenshots/Home_Page.png)
+
+<table>
+<tr>
+<td width="48%">
 
 The landing page is the navigation hub for the whole report. Each tile routes a different stakeholder to the view built for them:
 
@@ -74,8 +77,21 @@ The landing page is the navigation hub for the whole report. Each tile routes a 
 | **Executive View** | A top-level dashboard consolidating insights across every dimension of the business |
 | **Support** | Connect with a support specialist to resolve issues |
 
+</td>
+<td width="52%">
+
+<a href="screenshots/Home_Page.png"><img src="screenshots/Home_Page.png" alt="Home Page"></a>
+<sub>Click the image to view full size</sub>
+
+</td>
+</tr>
+</table>
+
 ### 📈 Executive View
-![Executive View](screenshots/Executive_View.png)
+
+<table>
+<tr>
+<td width="48%">
 
 The single screen a CXO would actually look at. Top-row KPI cards carry color-coded benchmarking, with everything else drillable below.
 
@@ -88,25 +104,87 @@ The single screen a CXO would actually look at. Top-row KPI cards carry color-co
 
 It also includes: revenue split by Division (PC / P&A / N&S) and by Channel (Retailer / Direct / Distributor); a sub-zone breakdown (India, NA, ROA, NE, SE, ANZ) with margin, market share, and risk flags; a five-year revenue/margin/market-share trend; AtliQ's PC market share against named competitors (bp, dale, innovo, pacer); and Top 5 Customers and Top 5 Products by revenue.
 
+</td>
+<td width="52%">
+
+<a href="screenshots/Executive_View.png"><img src="screenshots/Executive_View.png" alt="Executive View"></a>
+<sub>Click the image to view full size</sub>
+
+</td>
+</tr>
+</table>
+
 ### 💰 Finance View
-![Finance View](screenshots/FinanceView_Snap.png)
+
+<table>
+<tr>
+<td width="48%">
 
 A full Profit & Loss statement — from Gross Sales down to Net Profit % — with Benchmark and Change% columns for every line item: invoice deductions, manufacturing/freight/other cost, COGS, gross margin, operating expense, and net profit. Paired with a net sales trend chart and a Top/Bottom Products & Customers breakdown by region and segment.
 
+</td>
+<td width="52%">
+
+<a href="screenshots/FinanceView_Snap.png"><img src="screenshots/FinanceView_Snap.png" alt="Finance View"></a>
+<sub>Click the image to view full size</sub>
+
+</td>
+</tr>
+</table>
+
 ### 🤝 Sales View
-![Sales View](screenshots/Sales_View.png)
+
+<table>
+<tr>
+<td width="48%">
 
 Customer-level performance (Net Sales, Gross Margin $/%) for every account, a Performance Matrix plotting customers by region on a GM% vs. Net Sales grid, a segment-level product table, and a unit-economics breakdown showing how Gross Sales decomposes down to Gross Margin.
 
+</td>
+<td width="52%">
+
+<a href="screenshots/Sales_View.png"><img src="screenshots/Sales_View.png" alt="Sales View"></a>
+<sub>Click the image to view full size</sub>
+
+</td>
+</tr>
+</table>
+
 ### 📣 Marketing View
-![Marketing View](screenshots/Marketing_View.png)
+
+<table>
+<tr>
+<td width="48%">
 
 The product-side mirror of the Sales View: segment-level Net Sales/GM/Net Profit, a Performance Matrix by division (PC / P&A / N&S), a region/market/customer performance table, and unit economics with a Gross Margin → Operating Expense → Net Profit waterfall.
 
+</td>
+<td width="52%">
+
+<a href="screenshots/Marketing_View.png"><img src="screenshots/Marketing_View.png" alt="Marketing View"></a>
+<sub>Click the image to view full size</sub>
+
+</td>
+</tr>
+</table>
+
 ### 🚚 Supply Chain View
-![Supply Chain View](screenshots/Supply_Chain_View.png)
+
+<table>
+<tr>
+<td width="48%">
 
 Forecast Accuracy %, Net Error, and ABS Error KPIs (current vs. Last Year), an accuracy/net error trend chart, and customer- and product-level forecast tables flagging each as **EI (Excess Inventory)** or **OOS (Out of Stock)** risk.
+
+</td>
+<td width="52%">
+
+<a href="screenshots/Supply_Chain_View.png"><img src="screenshots/Supply_Chain_View.png" alt="Supply Chain View"></a>
+<sub>Click the image to view full size</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -174,7 +252,7 @@ AtliQ Hardware is a fictional company used as a case study for practicing real-w
 
 **Muhammad Yousaf**
 
-📧(yousafzadran50@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-yousaf-b67706240/) • [GitHub](#) •
+📧 (yousafzadran50@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-yousaf-b67706240/) 
 
 ---
 
